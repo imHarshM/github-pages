@@ -85,7 +85,9 @@ a:hover {
 .card {
   background-color: #1f2638;
   color: #ffffff;
-  transition: 0.3s ease-in;
+  height: 225px;
+  transition: 0.45s ease-in;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
   .fa-long-arrow-right {
     opacity: 0;
     transition: 0.3s ease;
@@ -96,5 +98,13 @@ a:hover {
     .fa-long-arrow-right {
       opacity: 1;
     }
+  }
+  .card-text {
+    text-align: left;
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /*define how many line you want to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
