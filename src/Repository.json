@@ -2,7 +2,7 @@
   {
     "title": "Portfolio",
     "description": "It's my personal portfolio website, you can see my professional career history, my eduction, the project I have worked on, my skill sets and many other thing related to me.",
-    "url": "http://imharshm.github.io/portfolio",
+    "url": "https://imharshm.github.io/portfolio",
     "name": {
       "title": "Mr",
       "first": "Marc",
@@ -22,7 +22,7 @@
   {
     "title": "Storybook",
     "description": "I have created some customize react component using storybook, you can make changes over there and see the result as per your requirement, copy the code and use in your application.",
-    "url": "http://imharshm.github.io/react-storybook",
+    "url": "https://imharshm.github.io/react-storybook",
     "name": {
       "title": "Mr",
       "first": "Marc",
@@ -42,7 +42,7 @@
   {
     "title": "React Dark Mode",
     "description": "This repo is used to create dark and light theming using context API",
-    "url": "http://imharshm.github.io/learn-react-app",
+    "url": "https://imharshm.github.io/learn-react-app",
     "name": {
       "title": "Mr",
       "first": "Marc",
