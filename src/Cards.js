@@ -18,7 +18,7 @@ const Cards = () => {
         {RepoData &&
           RepoData.map((Repo, i) => (
             <Col sm={12} md={6} lg={4} key={i}>
-              <a href={Repo.url} className="d-block text-muted">
+              <a href={Repo.url} target="_blank" className="d-block text-muted">
                 <Card className="mt-4 mb-2">
                   {/* <Card.Img variant="top" src="holder.js/100px160" /> */}
                   <Card.Body>
